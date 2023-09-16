@@ -1,0 +1,10 @@
+1- Fix up grid layout.
+2- Organize Details below each card.
+3- Get details for each movie and create external link for it.
+4- Work on responsive view.
+5- Design template for external view.
+6- Check the positioning of all details.
+7- Create hover effect for like button.
+8- Create hover effect for cards.
+9- Fix play button on home button.
+10- Link all cards to each <i class="fa fa-pagelines" aria-hidden="true"></i>
